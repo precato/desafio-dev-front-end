@@ -15,4 +15,4 @@ Nosso time de Marketing está em constante mobilização para captura de novas o
 
 ## :calendar: Entrega
 
-Para entregar esse desafio você deve criar um repositório do GitHub contendo a sua implementação junto com as informações necessárias para rodar o seu projeto e enviar o link do mesmo para o email **dev.gi@precato.com.br** e **marketing@precato.com.br**.
+Para entregar esse desafio você deve criar um repositório do GitHub contendo a sua implementação junto com as informações necessárias para rodar o seu projeto e enviar o link do mesmo para o email **dev.gi@precato.com.br**
