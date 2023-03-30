@@ -11,7 +11,7 @@ Nosso time de Marketing está em constante mobilização para captura de novas o
 
 <a href="https://www.figma.com/proto/D9KAm83KYvgdFuszaKhdiQ/PS-Web-Designer?node-id=0%3A12&scaling=min-zoom&page-id=0%3A1"><strong>Link do projeto</strong></a>
 
-**Observação:** Sobre quais tecnologias e frameworks a utilizar fica a seu critério desde que faça sentido ao desafio proposto.
+**Observação:** A unica restrição de tecnoligias e frameworks é que o deve ser utilizado ReactJS
 
 ## :calendar: Entrega
 
